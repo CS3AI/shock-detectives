@@ -2,6 +2,9 @@ Earth's Magnetic Shield: Shock Detectives
 
 This is a data-driven Solar Wind Shock Wave Automated Diagnostics Dashboard built entirely with Python, Streamlit, and OpenCV.
 
+Live Demo: Try the app live in your browser!
+https://shock-detectives.streamlit.app/
+
 The Backstory & Inspiration
 This project is inspired by the citizen science project [Shock Detectives](https://www.zooniverse.org/projects/michielfr/shock-detectives) on Zooniverse. While browsing their platform, 
 I realized that volunteers spend countless hours visually classifying these complex solar wind shock waves. As a high school tech enthusiast, I thought: *“Wait, why not write an algorithm 
